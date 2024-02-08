@@ -1,6 +1,6 @@
 | Company Name                        | Role                                             |
 |------------------------------------|--------------------------------------------------|
-| Company Name | Role |
+| Company Name | Roles |
 | Amazon | SDE Intern |
 | Goldman Sachs | Summer Analyst |
 | PayPal | Software Engineer - 2024 Summer Intern |
