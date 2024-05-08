@@ -1,103 +1,52 @@
-# Google Apps Script Documentation
+# M.Tech Integrated - VIT Placements & Internships
 
-## Overview
+## Introduction
+This repository serves as a comprehensive list of companies offering internship and full-time opportunities for students pursuing the MTech Integrated program at VIT Chennai. The companies listed here provide a variety of roles spanning across different domains and offer competitive compensation packages.
 
-This Google Apps Script automates the process of updating a README.md file in a GitHub repository with data retrieved from a Google Spreadsheet. It retrieves data from the spreadsheet, formats it into Markdown format, and updates the README.md file on GitHub using the GitHub API.
 
-## Functions
+# Some basic guidelines :
 
-### `updateReadme()`
+![353](https://github.com/SamPrinceFranklin/list-of-tech-intenrships-2024/assets/73087774/595ba568-62fe-46cf-b0db-be70ac73c1d9)
 
-- **Description**: This function is the main entry point for the script. It orchestrates the process by retrieving data from the spreadsheet, generating Markdown content, and updating the README.md file on GitHub.
+![5474](https://github.com/SamPrinceFranklin/list-of-tech-intenrships-2024/assets/73087774/a060d3df-47e3-4056-854e-f123529b5828)
 
-### `generateMarkdownTable(data)`
 
-- **Description**: This function takes the data retrieved from the spreadsheet and formats it into Markdown format for a table.
 
-- **Parameters**:
-  - `data`: 2D array containing the data retrieved from the spreadsheet.
 
-- **Returns**:
-  - A string containing the Markdown-formatted table.
+*As on 8th May 2024
 
-### `updateReadmeOnGithub(token, repoOwner, repoName, content)`
-
-- **Description**: This function updates the README.md file in the specified GitHub repository with the provided content.
-
-- **Parameters**:
-  - `token`: GitHub personal access token for authentication.
-  - `repoOwner`: Owner of the GitHub repository.
-  - `repoName`: Name of the GitHub repository.
-  - `content`: Content to be written to the README.md file.
-
-## Usage
-
-1. **Set up Google Apps Script**:
-   - Open your Google Spreadsheet.
-   - Go to `Extensions` > `Apps Script` to open the Google Apps Script editor.
-   - Copy and paste the provided code into the script editor.
-
-2. **Configure Variables**:
-   - Replace placeholder values (`YOUR_SPREADSHEET_ID`, `YOUR_GITHUB_TOKEN`, etc.) with your actual values.
-   - Ensure that the correct sheet name and range are specified in the `rangeName` variable.
-
-3. **Run the Script**:
-   - Run the `updateReadme` function from the Google Apps Script editor.
-   - Verify that the script executes successfully without errors.
-
-4. **Schedule the Script** (Optional):
-   - Set up a trigger to schedule the script to run at specific intervals.
-   - Go to `Edit` > `Current project's triggers` in the Google Apps Script editor to create a new trigger.
-
-## Dependencies
-
-- This script relies on the Google Sheets API and the GitHub API for retrieving data from the spreadsheet and updating the README.md file, respectively.
-- Ensure that the necessary scopes and permissions are granted for accessing the Google Sheets API and the GitHub API.
-
-## Notes
-
-- Keep your GitHub personal access token secure and avoid sharing it publicly.
-- Test the script thoroughly before deploying it to production to ensure it behaves as expected.
-
-## Sample
-
-| Company Name                        | Role                                             |
-|------------------------------------|--------------------------------------------------|
-| Company Name | Roles |
-| Amazon | SDE Intern |
-| Goldman Sachs | Summer Analyst |
-| PayPal | Software Engineer - 2024 Summer Intern |
-| IBM | Research Intern-Quantum |
-| IBM | Research Intern-Hybrid Cloud |
-| IBM | Research Intern-Security |
-| Baker Hughes | Summer Internships 2024 |
-| GE Careers | Research intern |
-| Barclays | Technology Summer Intern Programme 2024 EG |
-| MasterCard | BizOps Engineer I (R-205850) |
-| HP | Software Engineer(Systems) Intern (1160551) |
-| Mercedes Benz | Intern - ITP/ID Team Software development platform AWS-MER0002ADA |
-| Seagate | Intern III- Python Automation (8816)  |
-| Seagate | Intern III- Python Automation (8834) |
-| Seagate | V- HR Business Partners and Site Support (8788) |
-| Sophos | Intern (Software Testing) |
-| Unacademy | Hiring Intern (WFO) |
-| Matrice.ai | System Engineering Intern |
-| Upstox | UI Intern (2023 - 2024) |
-| Scalar | SDE Intern |
-| AdaGrad | DevOps Engineer - Intern |
-| Intel | Student Intern Technical |
-| HP | Intenral Audit Intern |
-| Comprinno Technologies Pvt. Ltd. | DevOps Engineer |
-| IBM | Intern Software Engineer |
-| Intel | Student Intern  |
-| Walmart | Grad Intern |
-| Xiaomi | Performance Intern |
-| Baker Hughes | Early Career Trainee - DT |
-| Siemens Healhineers | Technical - Intern |
-| ZF Jobs | Graduate Engineer Trainee- B.Tech/ B.E - Data Science/ IT/ CS |
-| Intuit | University Hiring |
-| SalesForce | Infrastructure Engineer, Site Reliability Intern |
-| Seagate | Intern- Machine Learning (Gen AI) (9366) |
-| Seagate | Intern - Big Data (9560)  |
-| Delottie | USI-CampusFY25-R&FA-Analyst Trainee-OTN |
-| Intel | JR0255021 - Graduate Technical Intern |
+| Company Name                 | Package       | Type                   |
+|------------------------------|---------------|------------------------|
+| Nokia                        | ₹ 25T-30T PA | Internship             |
+| Archerirm Technologies       | ₹ 8.9L PA     | Full Time              |
+| Vocera                       | ₹ 14L PA      | Internship             |
+| Stryker                      | ₹ 14L PA      | Internship             |
+| Dell Technology              | ₹ 19L PA      | Full Time              |
+| Signify Innovations India    | ₹ 14L PA      | Internship             |
+| Amd                          | ₹ 36L PA      | Internship             |
+| Netapp                       | ₹ 16L-23L PA | Internship (AI Intern) |
+| Marvell Technology           | ₹ 34L PA      | Internship             |
+| Nesho Entertainment Pvt Ltd  | ₹ 4.5L PA    | Internship             |
+| Morgan Stanley               | ₹ 1.1L PA    | Internship             |
+| Devtown                      | ₹ 6.6L-8L PA | Internship             |
+| Hyperverge                   | ₹ 6L PA      | Full Time              |
+| Tcs                          | ₹ 25T PA      | Internship             |
+| Miphi Semicon                | ₹ 5L-10L PA  | Internship             |
+| Netapp                       | ₹ 15L PA      | Internship (Professional Services Engineering Intern, Tech Support Engineering Intern) |
+| Kapture Cx                   | ₹ 7L PA      | Full Time              |
+| Continental Automotive Tech  | ₹ 30T PA      | Full Time              |
+| Securonix                    | ₹ 50T PA      | Internship             |
+| Philips                      | ₹ 15L PA      | Internship             |
+| Synopsys India               | ₹ 45T PA      | Internship             |
+| Dell Technologies            | ₹ 19L PA      | Internship             |
+| RAdware                      | ₹ 9L PA       | Internship             |
+| Afford Medical Technologies  | ₹ 20T PA      | Internship             |
+| Genpact Pg                   | ₹ 9.5L PA     | Full Time              |
+| Stryker                      | ₹ 35T PA      | Internship             |
+| Schneider Electric           | ₹ 9L PA       | Internship             |
+| Altair                       | ₹ 8L PA       | Internship             |
+| Sap                          | ₹ 35T PA      | Internship             |
+| Resmed Technology Pvt Ltd    | ₹ 15L PA      | Internship             |
+| Phinia Delphi India Pvt Ltd  | ₹ 8.5L PA     | Internship             |
+| Genesys                      | ₹ 35T PA      | Full Time              |
+| Mediatek                     | ₹ 16L-17L PA | Internship             |
