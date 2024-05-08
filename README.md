@@ -19,6 +19,7 @@ This repository serves as a comprehensive list of companies offering internship 
 
 | Company Name                 | Package       | Type                   |
 |------------------------------|---------------|------------------------|
+|Intel | ₹ 45,0000 PM | Internship|
 | Nokia                        | ₹ 25T-30T PA | Internship             |
 | Archerirm Technologies       | ₹ 8.9L PA     | Full Time              |
 | Vocera                       | ₹ 14L PA      | Internship             |
