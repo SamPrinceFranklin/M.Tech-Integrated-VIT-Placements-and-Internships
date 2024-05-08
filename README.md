@@ -8,7 +8,9 @@ This repository serves as a comprehensive list of companies offering internship 
 
 ![353](https://github.com/SamPrinceFranklin/list-of-tech-intenrships-2024/assets/73087774/595ba568-62fe-46cf-b0db-be70ac73c1d9)
 
-![5474](https://github.com/SamPrinceFranklin/list-of-tech-intenrships-2024/assets/73087774/a060d3df-47e3-4056-854e-f123529b5828)
+![Placements-Timeline-1](https://github.com/SamPrinceFranklin/list-of-tech-intenrships-2024/assets/73087774/48fae309-3272-4d3d-bb31-fa6926f59a64)
+
+![Placement-Timeline-2](https://github.com/SamPrinceFranklin/list-of-tech-intenrships-2024/assets/73087774/bb5ae0fa-4433-4eda-9403-e014392843d2)
 
 
 
